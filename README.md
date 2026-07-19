@@ -83,7 +83,7 @@ https://your-github-pages-link
 | Chapter      | Title                        | Status |
 | ------------ | ---------------------------- | ------ |
 | 📖 Chapter 1 | A Girl Who Could Hear Hearts | ✅     |
-| 📖 Chapter 2 | Coming Soon                  | ✅     |
+| 📖 Chapter 2 | A Family Begins to Grow      | ✅     |
 | 📖 Chapter 3 | Coming Soon                  | 🚧     |
 | 📖 Chapter 4 | Coming Soon                  | 🚧     |
 

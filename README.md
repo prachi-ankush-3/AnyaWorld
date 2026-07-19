@@ -6,12 +6,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/prachi-ankush-3/AnyaWorld?style=for-the-badge&logo=github&color=ff69b4">
-  <img src="https://img.shields.io/github/forks/prachi-ankush-3/AnyaWorld?style=for-the-badge&color=ffb6c1">
-  <img src="https://img.shields.io/github/license/prachi-ankush-3/AnyaWorld?style=for-the-badge&color=f48fb1">
-  <img src="https://komarev.com/ghpvc/?username=prachi-ankush-3&repo=AnyaWorld&style=for-the-badge&color=ff69b4">
-</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:ff5fa2,20:ff79c6,45:f8b4d9,70:fce4ec,100:ffd1dc&text=🌸%20AnyaWorld%20🌸&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Read%20Anya%20Forger's%20Story%20Like%20a%20Beautiful%20Book&descAlignY=58&descSize=22&animation=twinkling"/>
 
 </div>

@@ -127,7 +127,7 @@ AnyaWorld
 
 ---
 
-## 📖 Chapter 1
+## 📖 Chapter Demo
 
 
 <img src="./Outputs/C1.png"/>

@@ -121,25 +121,23 @@ AnyaWorld
 
 ## 🏡 Home
 
-> *(Add Screenshot Here)*
 
-<img src="./Screenshots/home.png"/>
+
+<img src="./Outputs/Home.png"/>
 
 ---
 
 ## 📖 Chapter 1
 
-> *(Add Screenshot Here)*
 
-<img src="./Screenshots/chapter1.png"/>
+<img src="./Outputs/C1.png"/>
 
 ---
 
-## 🌸 Future Chapters
+## 🌸 Main All Chapters
 
-> *(Add Screenshot Here)*
 
-<img src="./Screenshots/chapter2.png"/>
+<img src="./Outputs/Main.png"/>
 
 ---
 
